@@ -1,6 +1,6 @@
 import { Buffer } from 'buffer';
 
-export class TDMParser {
+export class TDMSreader {
 
     // calc difference between NI & UNIX timestamp
     static t_NI = new Date("1904-01-01 00:00:00");
